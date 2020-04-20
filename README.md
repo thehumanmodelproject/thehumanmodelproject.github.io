@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# the human model project
 
-You can use the [editor on GitHub](https://github.com/thehumanmodelproject/thehumanmodelproject.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Why
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To understand your self you must understand:
 
-### Markdown
+1. the `body` (diet, exercise, anatomy, medicine, ...)
+2. the `mind` (physchology, neurology, creativity, ...)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Becuase you have a self, you have a right to:
 
-```markdown
-Syntax highlighted code block
+1. all information about the self
+2. posessed by any credible source that wants to share it (1)
+3. forever, free and anonymously
 
-# Header 1
-## Header 2
-### Header 3
+## Goals
 
-- Bulleted
-- List
+- Create the most acurate model of self ever created
+- Maximize utility to as many people as possible
+- Make available to as many people as possible
 
-1. Numbered
-2. List
+## Status
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thehumanmodelproject/thehumanmodelproject.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+stay tuned
